@@ -1,1 +1,1 @@
-# Training
+print("Hello world!")
